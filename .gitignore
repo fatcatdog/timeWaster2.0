@@ -1,0 +1,12 @@
+# Personal SQLite usage data (contains your daily app & website history)
+data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Compiled macOS app bundle and Swift build artifacts
+TimeWaster.app/
+.build/
+
+# macOS system files
+.DS_Store
